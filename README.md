@@ -25,7 +25,7 @@
 - 🔍 Looking for **internship roles** in Full-Stack Development, Backend Engineering, or Frontend Development
 - 🛠️ I build clones, games, dashboards, and REST APIs to sharpen real-world skills
 - 🌱 Currently levelling up in **React**, **Docker**, and **Data Structures & Algorithms**
-- 📍 Based in Greater Noida, India
+- 📍 Based in Delhi, India
 
 ---
 
