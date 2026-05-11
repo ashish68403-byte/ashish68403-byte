@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ashish Kumar 👋</h1>
 
 <p align="center">
-  <b>B.Tech Computer Science Student · Dronacharya Group of Institutions, Greater Noida</b><br>
-  <i>Actively seeking internship opportunities in Software Development</i>
+  <b>Full Stack Developer · MERN · TypeScript · Open to Internships</b><br>
+  <i>B.Tech Computer Science & IT · Dronacharya Group of Institutions · 2027</i>
 </p>
 
 <p align="center">
@@ -21,47 +21,61 @@
 
 ## 🙋 About Me
 
-- 🎓 3rd-year B.Tech CS student (graduating **2027**) at Dronacharya Group of Institutions, Greater Noida (AKTU)
-- 🔍 Looking for **internship roles** in Full-Stack Development, Backend Engineering, or Frontend Development
-- 🛠️ I build clones, games, dashboards, and REST APIs to sharpen real-world skills
-- 🌱 Currently levelling up in **React**, **Docker**, and **Data Structures & Algorithms**
+- 🛠️ Full Stack Developer specialising in **MERN stack** and **TypeScript**
+- 🎓 3rd-year B.Tech CS & IT student at Dronacharya Group of Institutions, Greater Noida (AKTU), graduating **2027**
+- 🔍 Actively seeking **internship opportunities** in Full Stack, Backend, or Frontend Development
+- 💡 I build scalable web apps, secure REST APIs, and responsive UIs with clean, maintainable code
+- 🌱 Currently deepening skills in **React**, **Docker**, and **Data Structures & Algorithms**
 - 📍 Based in Delhi, India
 
 ---
 
 ## 🧰 Tech Stack
 
-**Frontend**
+**Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-**Database & Tools**
+**Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🔐 secure-typescript-rest-api](https://github.com/ashish68403-byte/secure-typescript-rest-api) | Production-ready REST API with env-based secret management, modular architecture & Express | TypeScript · Express · MongoDB |
-| [💰 expense-tracker-dashboard](https://github.com/ashish68403-byte/expense-tracker-dashboard) | Dashboard to track and visualise personal expenses | TypeScript |
-| [🎮 Simon-Says-Game](https://github.com/ashish68403-byte/Simon-Says-Game) | Classic memory game with progressive difficulty in vanilla JS | JavaScript |
-| [🎵 Spotify-Clone-UI](https://github.com/ashish68403-byte/Spotify-Clone-UI) | Pixel-perfect Spotify frontend clone with responsive layout | HTML · CSS |
-| [🕹️ Retro-Handheld-Console-UI](https://github.com/ashish68403-byte/Retro-Handheld-Console-UI) | Retro gaming console UI built purely with CSS | CSS |
+| Project | Description | Tech | Links |
+|--------|-------------|------|-------|
+| 🔐 **Secure TypeScript REST API** | Production-ready REST API with modular architecture, custom middleware, env-based secret management & safe auth practices | TypeScript · Express · MongoDB | [GitHub](https://github.com/ashish68403-byte/secure-typescript-rest-api) |
+| 💰 **Expense Tracker Dashboard** | Responsive dashboard to track, categorise & visualise personal finances with interactive charts and Context API state management | React.js · Tailwind CSS · Context API | [GitHub](https://github.com/ashish68403-byte/expense-tracker-dashboard) · [Live Demo](#) |
+| 🎮 **Simon Says Game** | Browser-based memory game with progressive difficulty, dynamic DOM feedback, and custom game loop logic | JavaScript · DOM | [GitHub](https://github.com/ashish68403-byte/Simon-Says-Game) · [Live Demo](#) |
+| 🎵 **Spotify Clone UI** | Pixel-perfect Spotify frontend with responsive layout and custom player controls | HTML · CSS | [GitHub](https://github.com/ashish68403-byte/Spotify-Clone-UI) |
+| 🕹️ **Retro Handheld Console UI** | Retro gaming console UI built purely with CSS — pixel art styling and button layouts | CSS | [GitHub](https://github.com/ashish68403-byte/Retro-Handheld-Console-UI) |
+
+> 📌 Replace the `#` placeholders in Live Demo links with your actual Vercel / Netlify deployed URLs
 
 ---
 
@@ -80,10 +94,10 @@
 
 ## 📫 Let's Connect
 
-I'm open to **internship opportunities**, project collaborations, and connecting with fellow developers!
+I'm open to **internship opportunities**, project collaborations, and connecting with fellow developers.
 
 - 💼 [LinkedIn — Ashish Kumar](https://www.linkedin.com/in/ashish-kumar-710161293/)
-- 📧 Drop me a message through LinkedIn
+- 📧 [ashish68403@gmail.com](mailto:ashish68403@gmail.com)
 
 ---
 
@@ -91,4 +105,4 @@ I'm open to **internship opportunities**, project collaborations, and connecting
   <img src="https://komarev.com/ghpvc/?username=ashish68403-byte&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-<p align="center"><i>"Code every day, improve every day."</i></p>
+<p align="center"><i>"Build things. Break things. Learn everything."</i></p>
