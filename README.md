@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashish Kumar 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · MERN · TypeScript · Open to Internships</b><br>
+  <b>Full Stack Developer · MERN · TypeScript</b><br>
   <i>B.Tech Computer Science & IT · Dronacharya Group of Institutions · 2027</i>
 </p>
 
@@ -23,7 +23,6 @@
 
 - 🛠️ Full Stack Developer specialising in **MERN stack** and **TypeScript**
 - 🎓 3rd-year B.Tech CS & IT student at Dronacharya Group of Institutions, Greater Noida (AKTU), graduating **2027**
-- 🔍 Actively seeking **internship opportunities** in Full Stack, Backend, or Frontend Development
 - 💡 I build scalable web apps, secure REST APIs, and responsive UIs with clean, maintainable code
 - 🌱 Currently deepening skills in **React**, **Docker**, and **Data Structures & Algorithms**
 - 📍 Based in Delhi, India
@@ -92,7 +91,7 @@
 
 ## 📫 Let's Connect
 
-I'm open to **internship opportunities**, project collaborations, and connecting with fellow developers.
+I'm open to project collaborations, and connecting with fellow developers.
 
 - 💼 [LinkedIn — Ashish Kumar](https://www.linkedin.com/in/ashish-kumar-710161293/)
 - 📧 [ashish68403@gmail.com](mailto:ashish68403@gmail.com)
