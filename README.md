@@ -73,7 +73,7 @@
 | 💰 **Expense Tracker Dashboard** | Responsive dashboard to track, categorise & visualise personal finances with interactive charts and Context API state management | React.js · Tailwind CSS · Context API | [GitHub](https://github.com/ashish68403-byte/expense-tracker-dashboard) · [Live Demo](https://expense-tracker-dashboard-opal.vercel.app/) |
 | 🎮 **Simon Says Game** | Browser-based memory game with progressive difficulty, dynamic DOM feedback, and custom game loop logic | JavaScript · DOM | [GitHub](https://github.com/ashish68403-byte/Simon-Says-Game) · [Live Demo](https://simon-says-game-sandy.vercel.app/) |
 | 🎵 **Spotify Clone UI** | Pixel-perfect Spotify frontend with responsive layout and custom player controls | HTML · CSS | [GitHub](https://github.com/ashish68403-byte/Spotify-Clone-UI) · [Live Demo](https://ashish68403-byte.github.io/Spotify-Clone-UI/) |
-| 🕹️ **Retro Handheld Console UI** | Retro gaming console UI built purely with CSS — pixel art styling and button layouts | CSS | [GitHub](https://github.com/ashish68403-byte/Retro-Handheld-Console-UI) · [Live Demo](https://simon-says-game-sandy.vercel.app/) |
+| 🕹️ **Retro Handheld Console UI** | Retro gaming console UI built purely with CSS — pixel art styling and button layouts | CSS | [GitHub](https://github.com/ashish68403-byte/Retro-Handheld-Console-UI) · [Live Demo](https://ashish68403-byte.github.io/Retro-Handheld-Console-UI/) |
 
 ---
 
